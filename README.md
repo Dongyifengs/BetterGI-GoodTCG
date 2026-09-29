@@ -17,6 +17,9 @@
 
 <br/>
 
+<div align="center">
+此版本为二改官方版本的BetterGI，额外增加AI七圣召唤功能
+</div>
 
 <div align="center">
 🌟 点一下右上角的 Star，Github 主页就能收到软件更新通知了哦~
